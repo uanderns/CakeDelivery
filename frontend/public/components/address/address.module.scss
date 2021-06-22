@@ -1,0 +1,27 @@
+@import "./../../css/commons.module.scss";
+
+.address {
+    width: 100%;
+    background-color: $primaryColor;
+    border-radius: 10px;
+    font-size: 16px;
+    .wrap {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        padding: 10px;
+        
+        input,select {
+            width: 100%;
+            height: 35px;
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 10px;
+            border: 1px solid #fff;
+            text-transform: uppercase;
+            outline: none;
+            margin: 10px;
+        }
+    }
+}
+

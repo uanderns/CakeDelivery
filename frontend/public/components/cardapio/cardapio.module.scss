@@ -1,0 +1,28 @@
+@import "./../../css/commons.module.scss";
+
+.body {
+    width: 100%;
+    background-color: $grayLightColor;
+    .container {
+        width: $container;
+        margin: 0 auto;
+        padding: 30px 0;
+        .sectionFilter {
+            padding: 10px;
+        }
+        .sectionProduto {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .sectionMaps {
+            padding: 10px;
+        }
+        .sectionAddress {
+            padding: 10px;
+        }
+        .sectionCloseOrder {
+            padding: 10px;
+        }
+    }
+}

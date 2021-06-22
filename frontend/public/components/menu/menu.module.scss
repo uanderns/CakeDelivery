@@ -1,0 +1,16 @@
+@import "../../css/commons.module.scss";
+
+.menu {
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        li {
+            margin: 5px 10px;
+            cursor: pointer;
+            color: #fff;
+            font-weight: 500;
+        }
+    }
+}

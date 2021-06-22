@@ -1,0 +1,36 @@
+@import "./../../css/commons.module.scss";
+
+.input {
+    height: 50px;
+    margin: 10px;
+    width: calc(100% - 20px);
+    border-radius: 10px;
+    border: 1px solid $grayDarkColor;
+    background-color: #fff;
+    padding: 10px 20px;
+    outline: 0;
+    .actions {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+.x25 {
+    width: calc(25% - 20px) !important;
+}
+
+.x33 {
+    width: calc(33.33% - 20px) !important;
+}
+
+.x50 {
+    width: calc(50% - 20px) !important;
+}
+
+.x75 {
+    width: calc(75% - 20px) !important;
+}
+
+.x100 {
+    width: calc(100% - 20px) !important;
+}
