@@ -29,9 +29,11 @@ Pré-requisitos: npm, Editor Visual Studio Code
 
 - Abra o projeto com o Visual Studio Code
 - Instale as dependências do projeto.
-- npm install
+- npm i (execute no terminal do Visual Studio Code)
 - Inicie a aplicação web
-- npm run dev (no terminal do Visual Studio Code)
+- npm run dev (execute no terminal do Visual Studio Code)
+- porta onde roda o projeto
+http://localhost:3000 
 
 Link das ferramentas para instalação:
 https://drive.google.com/file/d/1pRHliv439WHOJzer6bOBcp6von24K0G6/view?usp=sharing
