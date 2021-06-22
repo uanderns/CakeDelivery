@@ -18,20 +18,20 @@ https://github.com/uanderns/CakeDelivery.git
 ### Back end
 Pré-requisitos: Java 11, Spring Tool Suite (STS)
 
- Ir no Spring Tool Suite (STS)
-Abrir a pasta dsdelivery
-Clicar com o botão direito em src/main/java
-Procurar por "Run As" e ir na opção "Spring Boot App"
+-  Ir no Spring Tool Suite (STS)
+- Abrir a pasta dsdelivery
+- Clicar com o botão direito em src/main/java
+- Procurar por "Run As" e ir na opção "Spring Boot App"
 
 ### Front end
 
 Pré-requisitos: npm, Editor Visual Studio Code
 
-Abra o projeto com o Visual Studio Code
-Instale as dependências do projeto.
-npm install
-Inicie a aplicação web
-npm run dev (no terminal do Visual Studio Code)
+- Abra o projeto com o Visual Studio Code
+- Instale as dependências do projeto.
+- npm install
+- Inicie a aplicação web
+- npm run dev (no terminal do Visual Studio Code)
 
 Link das ferramentas para instalação
 
