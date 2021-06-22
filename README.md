@@ -33,7 +33,8 @@ Pré-requisitos: npm, Editor Visual Studio Code
 - Inicie a aplicação web
 - npm run dev (no terminal do Visual Studio Code)
 
-Link das ferramentas para instalação
+Link das ferramentas para instalação:
+https://drive.google.com/file/d/1pRHliv439WHOJzer6bOBcp6von24K0G6/view?usp=sharing
 
 ## Autores
 
